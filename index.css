@@ -29,7 +29,14 @@ nav {
 #logo {
   /* align-self: center; */
   padding: 17px;
-  height: 6.8rem;
+  height: 8rem;
+}
+
+#quote {
+  font-size: 0.8rem;
+  font-style: italic;
+  text-align: center;
+  margin-top: 2rem;
 }
 
 .lead {
