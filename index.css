@@ -1,0 +1,62 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: stretch;
+}
+
+.nav-item {
+  margin-left: 10px;
+}
+/* 
+nav {
+  background: #173f5f;
+} */
+.navbar-custom {
+  background-color: rgba(42, 65, 102);
+}
+
+.landing {
+  /* background: url("puzzle.jpg"); */
+  /* background-repeat: no-repeat; */
+  /* opacity: 0.6; */
+  /* background-size: auto; */
+  background: white;
+}
+
+#logo {
+  /* align-self: center; */
+  padding: 17px;
+  height: 6.8rem;
+}
+
+.lead {
+  font-size: 1.1rem;
+}
+
+.col-lg-3 {
+  /* padding: 30px; */
+}
+h5 {
+  color: rgba(42, 65, 102);
+  text-align: center;
+  margin: 1.5rem;
+}
+#text {
+  text-align: center;
+}
+#button-frontpage {
+  display: flex;
+  justify-content: center;
+}
+
+rect {
+  align-self: center;
+}
+.footer {
+  text-align: center;
+  /* margin: 0; */
+  /* padding: 0; */
+}
